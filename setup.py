@@ -5,7 +5,7 @@ setup(
     description='Python interface to the SDS011 air quality sensor.',
     author='Ivan Kalchev',
     version='0.9',
-    url='https://github.com/ikalchev/py-sds011',
+    url='https://github.com/jeroenhendricksen/py-sds011',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Programming Language :: Python :: 3',
